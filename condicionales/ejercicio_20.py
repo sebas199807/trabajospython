@@ -1,3 +1,7 @@
+print("CURSO FUNDAMENTOS DE PYTHON")
+print("NOMBRE:ARIEL VILLA")
+print("FECHA: 30/03/2023")
+
 dia = int(input("Ingrese Cantidad de Dias : "))
 
 hor = int(dia*24)
